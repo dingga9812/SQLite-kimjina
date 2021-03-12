@@ -1,4 +1,4 @@
-package com.human.sqlite_kimilguk;
+package com.human.sqlite_kimjina;
 
 import android.content.Context;
 
